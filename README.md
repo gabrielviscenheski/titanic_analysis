@@ -1,4 +1,1 @@
-**Titanic: This is a data science project for beginners about Titanic disaster to predict each passenger's chances of survival.**
-
-
-![titanic](https://github.com/gabrielviscenheski/titanic_analysis/assets/147537480/01eca2e8-732f-410d-95ce-0a3ddcde893d)
+This is a Data Science project for beginners about Titanic disaster to predict each passenger's chances of survival. Many techniques were applied to handle the dataset and the best accuracy achieved was 0,73 and after 0,80 applying Logistic Regression as classification model.
